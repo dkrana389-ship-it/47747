@@ -1,0 +1,4 @@
+Data Safety Form Answers:
+- Does your app collect or share any of the required user data types? No.
+- Is all user data encrypted in transit? N/A (App operates 100% offline with no internet permission).
+- Do you provide a way for users to request that their data is deleted? Yes, users can edit/clear data in Settings or uninstall the app to wipe all local Room/DataStore files.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कीप फोकस</string>
+    <string name="accessibility_service_description">कीप फोकस इंस्टाग्राम रील्स और यूट्यूब शॉर्ट्स के स्क्रॉल को गिनता है ताकि आप डूमस्क्रोलिंग से बच सकें।</string>
+    <string name="welcome_title">डूमस्क्रोलिंग रोकें। अपने सपनों को जिएं।</string>
+    <string name="welcome_desc">कीप फोकस इंस्टाग्राम और यूट्यूब पर लगातार देखे जाने वाले वीडियो गिनता है और आपको आपके लक्ष्य की याद दिलाता है।</string>
+    <string name="continue_btn">आगे बढ़ें</string>
+    <string name="profile_title">अपनी प्रोफ़ाइल बनाएं</string>
+    <string name="full_name">पूरा नाम *</string>
+    <string name="nickname">उपनाम (निकनेम)</string>
+    <string name="life_goal">जीवन का लक्ष्य या सपना *</string>
+    <string name="age">आयु (10 - 100) *</string>
+    <string name="profession">व्यवसाय</string>
+    <string name="pick_photo">प्रोफ़ाइल फ़ोटो चुनें (वैकल्पिक)</string>
+    <string name="dream_line">प्रेरणादायक पंक्ति (ड्रीम लाइन)</string>
+    <string name="permissions_title">अनुमतियाँ और सहमति</string>
+    <string name="permissions_desc">रील्स और शॉर्ट्स गिनने के लिए एक्सेसिबिलिटी सेवा और रिमाइंडर दिखाने के लिए ओवरले अनुमति आवश्यक है। सारा डेटा आपके फोन पर ही रहता है।</string>
+    <string name="agree_btn">मैं सहमत हूँ और अनुमति देता हूँ</string>
+    <string name="deny_btn">अस्वीकार करें</string>
+    <string name="done_title">आप पूरी तरह तैयार हैं!</string>
+    <string name="home_title">कीप फोकस</string>
+    <string name="reels_today">आज देखी गई रील्स</string>
+    <string name="reels_weekly">साप्ताहिक रील्स विवरण</string>
+    <string name="popups_shown">पॉपअप दिखाए गए</string>
+    <string name="apps_closed">ऐप बंद किए गए</string>
+    <string name="protection_active">सुरक्षा सक्रिय है</string>
+    <string name="protection_paused">सुरक्षा रुकी हुई है</string>
+    <string name="fix_permissions">अनुमतियाँ ठीक करें</string>
+    <string name="close_app">ऐप बंद करें</string>
+    <string name="give_5_mins">मुझे 5 मिनट दें (%d)</string>
+    <string name="give_5_mins_ready">मुझे 5 मिनट दें</string>
+    <string name="settings_title">सेटिंग्स और प्रोफ़ाइल</string>
+    <string name="save_changes">बदलाव सहेजें</string>
+</resources>

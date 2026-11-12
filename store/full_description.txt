@@ -1,0 +1,11 @@
+Keep Focus helps you stop endless doomscrolling on Instagram Reels and YouTube Shorts.
+
+How It Works:
+1. Create your personal profile with your life goal or dream and an optional photo.
+2. Keep Focus discreetly counts continuous short videos you watch.
+3. After 30 continuous reels (customizable in Settings), a full-screen motivational reminder appears with your dream and photo to help you close the app and get back to your goals.
+
+Features:
+- Tracks Instagram Reels and YouTube Shorts locally.
+- Clean Material 3 dashboard with daily stats and weekly bar chart.
+- 100% private: Zero internet permission required. All profile data, photos, and stats stay strictly on your device.

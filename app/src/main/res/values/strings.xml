@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keep Focus</string>
+    <string name="accessibility_service_description">Keep Focus detects scroll events inside Instagram Reels and YouTube Shorts to remind you of your life goals and stop doomscrolling.</string>
+    <string name="welcome_title">Stop Doomscrolling. Start Living.</string>
+    <string name="welcome_desc">Keep Focus counts continuous short videos on Instagram and YouTube, gently reminding you of your dream when it matters most.</string>
+    <string name="continue_btn">Continue</string>
+    <string name="profile_title">Personalize Your Journey</string>
+    <string name="full_name">Full Name *</string>
+    <string name="nickname">Nickname</string>
+    <string name="life_goal">Life Goal or Dream *</string>
+    <string name="age">Age (10 - 100) *</string>
+    <string name="profession">Profession</string>
+    <string name="pick_photo">Choose Profile Photo (Optional)</string>
+    <string name="dream_line">Dream Line (Motivational Sentence)</string>
+    <string name="permissions_title">Permissions &amp; Consent</string>
+    <string name="permissions_desc">Keep Focus needs Accessibility Service permission to count Reels and Shorts, and Display Over Other Apps permission to show your dream reminder popup. Only app package names and scroll events are read. Nothing is stored externally or sent anywhere.</string>
+    <string name="agree_btn">I Agree &amp; Enable Permissions</string>
+    <string name="deny_btn">Deny</string>
+    <string name="done_title">You Are All Set!</string>
+    <string name="home_title">Keep Focus</string>
+    <string name="reels_today">Reels Today</string>
+    <string name="reels_weekly">Weekly Reels Overview</string>
+    <string name="popups_shown">Popups Shown</string>
+    <string name="apps_closed">Apps Closed</string>
+    <string name="protection_active">Protection Active</string>
+    <string name="protection_paused">Protection Paused</string>
+    <string name="fix_permissions">Fix Missing Permissions</string>
+    <string name="close_app">Close the App</string>
+    <string name="give_5_mins">Give me 5 minutes (%d)</string>
+    <string name="give_5_mins_ready">Give me 5 minutes</string>
+    <string name="settings_title">Settings &amp; Profile</string>
+    <string name="save_changes">Save Changes</string>
+</resources>

@@ -1,0 +1,2 @@
+AccessibilityService API Declaration:
+Keep Focus uses the AccessibilityService API exclusively to detect when the user is actively viewing short-form video feeds (Instagram Reels and YouTube Shorts) and count continuous scroll events. When the user reaches their chosen reel threshold (default 30), Keep Focus displays a motivational reminder screen to help prevent compulsive doomscrolling. No screen text, passwords, messages, or personal data are collected, stored, or transmitted.
